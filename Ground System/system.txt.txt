@@ -1,0 +1,17 @@
+The system was setup with sstv tx disabled because of a problem that was happening in the i2c bus after sending sstv, it was odd because it was a new issue.
+
+The tracking system was a GM300 style 2 ch radio with T3 Mini tracker via usb, it was set into usb kiss mode
+AGW 2004 was set to usbmicro tracker, Aprspoint / UI-view was used.  Ui-view message RX was used for the sensor data reception.
+
+AGW Monitor was used as a method to save all the data, the tracker was set to Wide2-2
+
+APRS.fi proved a very good and basically adequate tracker, the radio was set to tx on 1w, using the former sstv radio because of worries that the amp may have been damaged on the other aprs radio.
+
+Weather was quite poor but proved adequate for the day, a drop cloth was used for the filling and a few bungees
+
+
+Balloon lost gps fix around 30kft and only had one mid send, but regained the packets after lowering again to about 30kft.
+
+The balloon landed in a tree East of Idaho Falls, thanks to Cheryl and Mathew Bailey for driving us around for over an hour on his property / neighor property.
+
+We felt that the last packet was still in flight, but it appears it was sent 
